@@ -13,6 +13,12 @@ This project is an Android application featuring a three-screen navigation setup
 **Lecturer:** Eugene O'Regan  
 **Module:** Mobile App Development 2 
 
+## Low-Fidelity Wireframe
+![Low-Fidelity Wireframe](https://github.com/FilipeLutz/SimpleNavigation/blob/master/Low-Fidelity%20Wireframe.jpg)
+
+## High-Fidelity Wireframe
+![High-Fidelity Wireframe](https://github.com/FilipeLutz/SimpleNavigation/blob/master/High-fidelity%20Wireframe.png)
+
 ## Disclaimer
 
 This project is for educational purposes only. The information and code presented in this report are intended to demonstrate the application of Jetpack Compose in Android development and are not intended for commercial use. While efforts have been made to ensure the accuracy and reliability of the content, there may be errors or omissions. I am not responsible for any consequences arising from the use of this project or its implementation in real-world applications. Users are encouraged to verify and adapt the code as necessary for their specific use cases.
